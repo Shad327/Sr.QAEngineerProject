@@ -1,0 +1,9 @@
+export { HomePage } from "./home.page";
+export { InterestGroupsPage } from "./interestGroups.page";
+export { ProfilePage } from "./profile.page";
+export { ResearchPage } from "./research.page";
+export { EventsPage } from "./events.page";
+export { DirectoryPage } from "./directory.page";
+export { ProfileEditPage } from "./profileEdit.page";
+export { SearchPage } from "./search.page";
+export { SearchFiltersPage } from "./searchFilters.page";
